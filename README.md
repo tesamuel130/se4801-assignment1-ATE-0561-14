@@ -8,15 +8,15 @@ ShopWave-Starter is a Spring Boot application that serves as the foundational se
 
 ## How to build
 ```bash
-mvn clean install
+./gradlew build
 ```
 
 ## How to run
 ```bash
-mvn spring-boot:run
+./gradlew bootRun
 ```
 
 ## How to run tests
 ```bash
-mvn test
+./gradlew test
 ```
